@@ -8,3 +8,4 @@ git log --oneline
 git log --oneline --pretty
 git clone
 git pull origin main
+git push
